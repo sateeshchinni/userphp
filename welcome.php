@@ -22,7 +22,7 @@ if(!empty($_SESSION['responseObj'])){
 	
 
     <h1>Welcome To Admin Page Mr. <?php echo ADMIN /*Echo the username */ ?></h1>
-    <p><a href="logout.php">Logout</a></p> <!-- A link for the logout page -->
+    <p><a href="logout.php">Logout</a></p> <!-- A link for the test logout page -->
     <p>Put Admin Contents</p>
 </body>
 </html>
